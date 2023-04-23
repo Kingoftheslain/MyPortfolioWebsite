@@ -129,6 +129,25 @@ section {
     line-height: 1.8;
     margin-bottom: 40px;
 }
+.button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn {
+    display: inline-block;
+    padding: 12px 28px;
+    background: var(--main-color);
+    border-radius: 5px;
+    color: var(--text-color);
+    font-size: 1rem;
+    letter-spacing: 1px;
+    font-weight: 600;
+    transition: all .45s ease;
+}
+.btn:hover {
+    transform: scale(0.9);
+}
 /* About Styles */
 .about {
     display: grid;
