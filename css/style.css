@@ -455,7 +455,7 @@ section {
 @media (max-width: 820px) {
     html, body {
         width: 100%;
-        overflow-x: none;
+        overflow-x: hidden;
     }
     #menu-icon{
         display: block;
