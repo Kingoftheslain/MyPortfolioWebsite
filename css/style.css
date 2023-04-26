@@ -457,6 +457,9 @@ section {
         width: 100%;
         overflow-x: hidden;
     }
+    .logo {
+        font-size: 30px;
+    }
     #menu-icon{
         display: block;
     }
