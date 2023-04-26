@@ -493,7 +493,7 @@ section {
     .row {
         width: 75%;
     }
-    .last-text {
+    .last-text p {
         font-size: 8px;
     }
 }
