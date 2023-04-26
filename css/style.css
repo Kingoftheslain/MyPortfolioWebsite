@@ -491,6 +491,9 @@ section {
         top: 100%;
     }
     .row {
-        width: 80%;
+        width: 70%;
+    }
+    .last-text {
+        font-size: 11px;
     }
 }
