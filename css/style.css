@@ -490,4 +490,7 @@ section {
     .navlist.open {
         top: 100%;
     }
+    .row {
+        width: 80%;
+    }
 }
