@@ -453,6 +453,9 @@ section {
     }
 }
 @media (max-width: 820px) {
+    html {
+        overflow-x: hidden;
+    }
     #menu-icon{
         display: block;
     }
