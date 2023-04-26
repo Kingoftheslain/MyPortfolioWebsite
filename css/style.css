@@ -453,7 +453,8 @@ section {
     }
 }
 @media (max-width: 820px) {
-    html {
+    html, body {
+        width: 100%;
         overflow-x: none;
     }
     #menu-icon{
